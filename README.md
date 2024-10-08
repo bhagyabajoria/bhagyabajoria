@@ -1,10 +1,9 @@
-<img align="center" alt="banner" width="100%" src="https://i.pinimg.com/originals/bc/35/70/bc3570011c9d166f7a2b39d921f2a4f6.gif">
 <h1 align="center">Hi 👋, I'm Bhagya Bajoria</h1>
 <h3 align="center">A software engineer and full-stack developer with a diverse skill set spanning across front-end and back-end technologies. I am passionate about building dynamic and responsive web applications and constantly exploring new technologies to enhance my projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabajoria" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhagya_bajoria" target="blank"><img src="https://img.shields.io/twitter/follow/bhagya_bajoria?logo=twitter&style=for-the-badge" alt="bhagya_bajoria" /></a> </p>
+<p align="left"> <a href="https://x.com/bhagya_bajoria" target="_blank"><img src="https://img.shields.io/twitter/follow/bhagya_bajoria?logo=twitter&style=for-the-badge" alt="bhagya_bajoria" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Data Structures and Algorithms (DSA)**
 
