@@ -3,14 +3,18 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabajoria" /> </p>
 
-
-- 🌱 I’m currently learning **Java, Data Structures and Algorithms (DSA)**
+<h3 align="left">Currently Learning:</h3>
+<p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=idea,java&perline=7" />
+    </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,css,express,figma,gcp,git,github,html,idea,java,js,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,php,py,react,vercel,vscode,yarn&perline=7" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,css,express,figma,gcp,git,github,html,js,jquery,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,php,py,react,vercel,vscode,yarn&perline=7" />
     </a>
 </p>
 
