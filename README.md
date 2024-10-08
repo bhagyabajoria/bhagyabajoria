@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagya Bajoria</h1>
 <h3 align="center">A software engineer and full-stack developer with a diverse skill set spanning across front-end and back-end technologies. I am passionate about building dynamic and responsive web applications and constantly exploring new technologies to enhance my projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gifv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabajoria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhagya_bajoria" target="blank"><img src="https://img.shields.io/twitter/follow/bhagya_bajoria?logo=twitter&style=for-the-badge" alt="bhagya_bajoria" /></a> </p>
