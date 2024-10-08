@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagya Bajoria</h1>
 <h3 align="center">A software engineer and full-stack developer with a diverse skill set spanning across front-end and back-end technologies. I am passionate about building dynamic and responsive web applications and constantly exploring new technologies to enhance my projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyabajoria&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyabajoria" /> </p>
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
@@ -23,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagyabajoria&show_icons=true&locale=en" alt="bhagyabajoria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabajoria&" alt="bhagyabajoria" /></p>
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=bhagyabajoria&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
