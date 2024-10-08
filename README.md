@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabajoria&" alt="bhagyabajoria" /></p>
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=bhagyabajoria&icon=3&color=6)](https://visitcount.itsvg.in)
+    
+[![](https://visitcount.itsvg.in/api?id=bhagyabajoria&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
