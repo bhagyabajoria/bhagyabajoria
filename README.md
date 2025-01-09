@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhagya Bajoria</h1>
 <h3 align="center">An energetic tech student, I'm building a strong foundation in web development, DevOps, and DSA. What keeps me in the journey of learning is the desire to be constantly upgrading my skills and knowledge. With each project, I've learned to target innovative web solutions and effective DevOps practices. I will continually stay updated with current trends and strive to become an all-rounded professional in the tech field.</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
@@ -20,6 +20,7 @@
       <img src="https://skillicons.dev/icons?i=git,github,html,js,jquery,css,nextjs,nodejs,npm,php,py,react,vercel,express,yarn,mongodb,mysql,nginx&perline=7" />
     </a>
 </p>
+
 
 ### :fire: My Stats :
 
