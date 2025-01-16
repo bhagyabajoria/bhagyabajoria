@@ -26,13 +26,13 @@
 
 <table align="center" style="table-layout:fixed; width: 100%; padding: 10px;">
   <tr>
-    <td align="center" style="padding: 10px; width: 33%;">
+    <td align="center" style="padding: 10px; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=bhagyabajoria&show_icons=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Bhagya Bajoria's GitHub stats" width="350" />
     </td>
-    <td align="center" style="padding: 10px; width: 33%;">
+<!--     <td align="center" style="padding: 10px; width: 33%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyabajoria&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Bhagya Bajoria's GitHub Streak" width="350" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
+    </td> -->
+    <td align="center" style="padding: 10px; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyabajoria&layout=compact" alt="Top Languages" width="350" />
     </td>
   </tr>
