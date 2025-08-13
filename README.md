@@ -7,7 +7,7 @@
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,npm,react,express,mongodb&perline=7" />
+      <img src="https://skillicons.dev/icons?i=cpp&perline=7" />
     </a>
 </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,html,js,jquery,css,mysql&perline=7" />
+      <img src="https://skillicons.dev/icons?i=git,github,java,html,js,jquery,css,mysql,nodejs,npm,react,express,ts,yarn,mongodb&perline=7" />
     </a>
 </p>
 
